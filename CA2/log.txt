@@ -1,0 +1,67 @@
+-- create house Ein
+-- create house Jeff
+-- -- main.cpp execl() building.cpp
+-- main.cpp execl() building.cpp
+create house Thea
+-- main.cpp execl() building.cpp
+-- main execl() bills.out
+-- house Theaexecl() Electricity source
+-- house Theaexecl() Gas source
+-- house Theaexecl() Water source
+-- house Einexecl() Gas source
+-- house Einexecl() Electricity source
+-- house Jeffexecl() Water source-- 
+house Einexecl() Water source
+-- house Jeffexecl() Electricity source
+-- house Jeffexecl() Gas source
+-- source read data from TheaElectricity.csv
+-- source send data to the house
+-- source read data from TheaGas.csv
+-- source read data from TheaWater.csv
+-- source send data to the house
+-- source send data to the house
+-- source read data from EinWater.csv
+-- source send data to the house
+-- source read data from EinGas.csv
+-- source send data to the house
+-- source read bills.csv
+-- source send data to the house
+-- source read data from EinElectricity.csv
+-- source send data to the house
+-- source read data from JeffElectricity.csv
+-- source send data to the house
+-- source read data from JeffWater.csv
+-- -- source read data from JeffGas.csv
+-- source send data to the house
+-- source read bills.csv
+-- source send data to the house
+-- source read bills.csv
+-- source send data to the house
+source send data to the house
+-- source read bills.csv
+-- source send data to the house
+-- house Theareceived Gas.csv and bills.csv data
+-- source read bills.csv
+-- source send data to the house
+-- source read bills.csv
+-- source send data to the house
+-- source read bills.csv
+-- source send data to the house
+-- source read bills.csv
+-- source send data to the house
+-- house Theareceived Water.csv and bills.csv data
+-- house Theareceived Electricity.csv and bills.csv data
+-- house Einreceived Gas.csv and bills.csv data
+-- source read bills.csv
+-- source send data to the house
+-- house Jeffreceived Gas.csv and bills.csv data
+-- house Einreceived Water.csv and bills.csv data
+-- house Einreceived Electricity.csv and bills.csv data
+-- house Jeffreceived Water.csv and bills.csv data
+-- house Jeffreceived Electricity.csv and bills.csv data
+-- main send message to house Jeff
+-- house Jeffreceived the request
+-- bills received data from the house
+-- bills send data to the house
+-- house Jeffanswered the request
+-- main received result from Jeff
